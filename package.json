@@ -1,9 +1,9 @@
 {
-  "name": "mediacrush-firefox",
-  "fullName": "MediaCrush-firefox",
+  "name": "MediaCrush",
+  "fullName": "MediaCrush",
   "id": "jid1-Jm2FeIsBVkqZiQ",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "description": "Instantly upload any image on the web to MediaCrush for reliable, fast hosting.",
+  "author": "Drew DeVault",
+  "license": "MIT",
+  "version": "1.0"
 }
